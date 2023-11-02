@@ -3,7 +3,7 @@
 
 https://www.youtube.com/watch?v=cfON3-kWCuM&list=PLEuyFWEF8u0M4ds9ASg0Bg2iAwsEZi8Yk&index=1
 
-##　脆弱性
+## 脆弱性
 ## 脅威
 * 物理的脅威
 * 人為的脅威

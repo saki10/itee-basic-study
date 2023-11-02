@@ -16,5 +16,5 @@ https://www.youtube.com/watch?v=lT7vLRBwxrY&list=PLEuyFWEF8u0M4ds9ASg0Bg2iAwsEZi
 
 ## ハッシュ関数
   * ハッシュ値（メッセージダイジェスト）
-##　ディジタル署名
+## ディジタル署名
 ## 認証局とPKI
