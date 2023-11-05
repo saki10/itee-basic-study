@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=oHTq8x5KaOg&list=RDCMUCIBlbPP3I-C9tYLMHLUYQXQ&index=2
 
 
-* オーダー記法
+## オーダー記法
 
 データの探索アルゴリズム
 

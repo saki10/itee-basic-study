@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=Az2KzhOh3iI
 * クラス図
 * シーケンス図
 * アクティビティ図
-+ ユースケース図
+* ユースケース図

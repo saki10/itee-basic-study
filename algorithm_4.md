@@ -1,4 +1,5 @@
 # 04.モジュール分割を理解する
+
 04.モジュール分割を理解する| 基本情報技術者試験
 
 https://www.youtube.com/watch?v=7cj3yFa7k4s&list=RDCMUCIBlbPP3I-C9tYLMHLUYQXQ&index=5
